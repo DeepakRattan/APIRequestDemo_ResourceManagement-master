@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APIRequestDemo</string>
+    <string name="name_hint">Enter your Name</string>
+    <string name="passwd_hint">Enter your password</string>
+</resources>
